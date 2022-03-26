@@ -16,3 +16,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_griffin.mk
+
+
+COMMON_LUNCH_CHOICES := omni_griffin-eng
